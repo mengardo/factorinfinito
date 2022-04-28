@@ -1,7 +1,7 @@
 package net.severo.entdes;
 /**
  * 
- * @author Profesor
+ * @author Raul Rodriguez Tortosa
  *
  */
 public class Factorial {
